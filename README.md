@@ -1,4 +1,21 @@
+# TesseReact - An OCR tool made with React and Tesseract JS
+This experimente tries to make a SPA using React to 'read' texts in images and convert it to plain text, using Tesseract API.
+
+You can see an image of the page bellow.
+![homepage](tessereact_home_demo.png)
+
+## Stack
+- Service: TesseractJs
+- Fend: React
+
+## Future Issues
+- Improve de UI
+- Refactor the React Code
+- Use Redux to improve State management
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## For tests purposes
+In the root directory you can find a subdirectory called `/ocr_test_images_english`. You can use its content to test the OCR.
 
 ## Available Scripts
 
