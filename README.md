@@ -8,6 +8,9 @@ Click in the following image to see a video demo of the app.
 - Service: TesseractJs
 - FEnd: React
 
+## Install
+Run `npm install` inside the root directory. After finish the instalation, run `npm start` to see your app.
+
 ## For tests purposes
 In the root directory you can find a subdirectory called `/ocr_test_images_english`. You can use its content to test the OCR.
 
