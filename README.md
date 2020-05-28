@@ -2,7 +2,7 @@
 This experimente tries to make a SPA using React to 'read' texts in images and convert it to plain text, using Tesseract API.
 
 Click in the following image to see a video demo of the app.
-[![homepage](tessereact_home_demo.png)](https://youtu.be/mDyUffUQWsQ)
+[![homepage](tessereact_home_demo_1.png)](https://youtu.be/mDyUffUQWsQ)
 
 ## Stack
 - Service: TesseractJs
