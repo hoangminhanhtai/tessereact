@@ -2,8 +2,9 @@ import React from 'react';
 import { render } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
+// Simple test
+test('Renders the subtitle text of the page', () => {
   const { getByText } = render(<App />);
-  const linkElement = getByText(/learn react/i);
+  const linkElement = getByText(/The OCR app made with React and Tesseract/i);
   expect(linkElement).toBeInTheDocument();
 });
